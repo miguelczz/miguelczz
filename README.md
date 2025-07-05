@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**miguelczz/miguelczz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nupezqmox42gqqvpt3jdq0a9arj8tnys7dsxj8uk&rid=giphy.gif&ct=g" height='201px''/>
+    <h1>Hi, Im Miguel</h1>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center"><em>A web developer at <a href="[https://www.soyhenry.com/?gad=1](https://www.politecnicojic.edu.co/)">Politecnico Colombiano Jaime Isaza Cadavid</a> Professional technician in Information Systems Programming</em></p>
+
+
+```
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: ["Java", "Python"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
+###
