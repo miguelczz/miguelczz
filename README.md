@@ -50,7 +50,8 @@
 <h3 align="center">Kakureya</h3>
 <div align="center">
 <a href="https://github.com/miguelczz/Kakureya" target="_blank">
-  <img src="https://github.com/miguelczz/Kakureya/static/images/readme/inicio.png" width="400" alt="Kakureya">
+  <img src="https://raw.githubusercontent.com/miguelczz/Kakureya/main/static/images/readme/inicio.png" width="400">
+ alt="Kakureya">
 </a>
 <br>
 <p>
