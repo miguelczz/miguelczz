@@ -19,6 +19,7 @@
         <img src="https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
 </p>
+<br>
 
 ## Sobre mí
 
