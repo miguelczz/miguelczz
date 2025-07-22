@@ -1,61 +1,96 @@
-
-
-<div id="header" align="center">
-    <h1 align="center"><b>Hola, soy Miguel  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nupezqmox42gqqvpt3jdq0a9arj8tnys7dsxj8uk&rid=giphy.gif&ct=g" height='330px' width='500px''/>
+<div align="center">
+<h1 align="center">Hola, soy Miguel Zuluaga 👋</h1>
 </div>
+<img src="https://i.imgur.com/weNbhGZ.png" alt="banner">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelczz)
+<p align="center"><em>Desarrollador en formación en <a href="https://www.politecnicojic.edu.co/">Politécnico Colombiano Jaime Isaza Cadavid</a>, Técnico en Programación de Sistemas de Información</em></p>
 
-<p align="center"><em>A web developer at <a href="[https://www.soyhenry.com/?gad=1](https://www.politecnicojic.edu.co/)">Politecnico Colombiano Jaime Isaza Cadavid</a> Technician in Information Systems Programming</em></p>
-
+<p align="center">
+    [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelczz)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelzuluaga/)
+    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelzuluaga201@gmail.com)
+    [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573112939462)
+</p>
 
 ## Sobre mí
 
-- 🧑‍💻 **Desarrollador en formación**
-- 🔧 **Tecnologías:** Python, React, Java, Spring, TailwindCSS, AWS, PostgreSQL, Pygame, Git, GitHub
-- 🌱 **Enfoque:** Combinación de aprendizaje autodidacta y formación académica
+- 🎓 Técnico en Programación de Sistemas de Información
+- 💻 Desarrollador en formación
+- 🌱 Combinación de aprendizaje autodidacta y formación académica
+- 🏆 Ganador de premios a mejor proyecto en mi institución
 
----
+## Tecnologías
 
-## Proyectos
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### 🌳 **Forest Custodian** - [GitHub](https://github.com/miguelczz/ForestCustodian)
+<br>
 
-**Descripción:** Videojuego 2D desarrollado en **Python** con **Pygame**. El juego promueve la conciencia ambiental mediante dinámicas educativas y retos simbólicos. Se implementan estructuras de control y manejo de archivos planos, además de un enfoque modular en su desarrollo.
+## Proyectos destacados
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Forest Custodian</h3>
+<div align="center">
+<a href="[ENLACE_GITHUB_PROYECTO]" target="_blank"><img src="[URL_IMAGEN_PROYECTO]" width="400" alt="Forest Custodian"></a>
+<p>
+<a href="[ENLACE_GITHUB_PROYECTO]" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Videojuego 2D que promueve la conciencia ambiental mediante dinámicas educativas y retos simbólicos. Desarrollado en Python con Pygame, aplicando estructuras de control, manejo de archivos planos y enfoque modular.</p>
+<p>🏆 Certificado mejor proyecto PPI T&T categoría primer semestre año 2024-1</p>
+</div>
+                                                                                      
+</td>
 
-**Certificado:** Mejor proyecto PPI T&T - Categoría Primer Semestre (2024-1).
+<td width="50%">
+               <br>
+<h3 align="center">Kakureya</h3>
+<div align="center">                                       
+<a href="[[ENLACE_GITHUB_PROYECTO]](https://github.com/miguelczz/Kakureya)" target="_blank"><img src="kakureya/static/images/readme/inicio.png" width="400" alt="Kakureya"></a>
+<br>
+<p>
+<a href="[ENLACE_GITHUB_PROYECTO]" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="[ENLACE_DEPLOY]" target="_blank">
+<img src="https://img.shields.io/badge/DEMO-3fFD7f?style=for-the-badge">
+</a>
+</p>
+<p>Aplicación web para la gestión de pedidos y despachos de comida japonesa a domicilio. Desarrollado con Python, Django, JavaScript, Bootstrap, AWS, API de Wompi y PostgreSQL.</p>
+<p>🏆 Certificado mejor proyecto PPI T&T categoría tercer semestre año 2025-1</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 
-**Tecnologías:** Python, Pygame, Estructuras de Control.
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Talky</h3>
+<div align="center">
+<a href="[ENLACE_GITHUB_PROYECTO]" target="_blank"><img src="[URL_IMAGEN_PROYECTO]" width="400" alt="Talky"></a>
+<p>
+<a href="[ENLACE_GITHUB_PROYECTO]" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Asistente virtual educativo que permite a los usuarios practicar inglés básico mediante interacción conversacional y lecciones guiadas. Actualmente en desarrollo con React, Java SpringBoot, NBN, AWS y TailwindCSS.</p>
+</div>                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
 
----
-
-### 🍱 **Kakureya** - [GitHub](https://github.com/miguelczz/Kakureya)
-
-**Descripción:** Asistente virtual educativo que permite a los usuarios practicar inglés básico mediante interacción conversacional y lecciones guiadas. Actualmente en desarrollo con **React**, **Java SpringBoot**, **N8N**, **AWS** y **TailwindCSS**.
-
-**Objetivo:** Facilitar el aprendizaje del inglés de manera interactiva, ofreciendo lecciones personalizadas y ejercicios prácticos.
-
-**Tecnologías:** React, Java SpringBoot, N8N, AWS, TailwindCSS.
-
-**Despliegue:** [Kakureya Demo](https://kakureya-72c3bcabd294.herokuapp.com/)
-
----
-
-### 🗣️ **Talky** - [GitHub](https://github.com/miguelczz/Talky)
-
-**Descripción:** Proyecto educativo basado en un **chatbot** que permite la enseñanza de inglés. El sistema utiliza **React**, **TailwindCSS**, y **AWS** para ofrecer lecciones interactivas, evaluaciones, y seguimiento del progreso.
-
-**Características:** 
-- Evaluación dinámica del progreso del estudiante.
-- Interacción en tiempo real con un sistema de retroalimentación.
-- Sistema de autenticación y registro de usuario.
-
-**Tecnologías:** React, TailwindCSS, AWS, Firebase (para la autenticación).
-
----
-
-## GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/miguelczz">
@@ -63,12 +98,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguelczz&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
----
-
-## Contacto
-
-- 📱 **WhatsApp:** [Miguel Zuluaga](https://wa.me/573112939462)
-- 💼 **GitHub:** [miguelczz](https://github.com/miguelczz)
-- 📧 **Correo:** miguelzuluaga201@gmail.com
-
