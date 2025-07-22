@@ -1,14 +1,15 @@
 <div align="center">
 <h1 align="center">Hola, soy Miguel Zuluaga </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-</div>
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nupezqmox42gqqvpt3jdq0a9arj8tnys7dsxj8uk&rid=giphy.gif&ct=g" height='330px' width='500px'/>
 
-<p align="center"><em>Desarrollador en formación en Politécnico Colombiano Jaime Isaza Cadavid, Técnico en Programación de Sistemas de Información</em></p>
+[![GitHub](https://img.shields.io/badge/GitHub-miguelczz-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelczz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Zuluaga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelzuluaga/)
+[![Gmail](https://img.shields.io/badge/Gmail-miguelzuluaga201@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelzuluaga201@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-3112939462-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573112939462)
 
-    [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelczz)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelzuluaga/)
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelzuluaga201@gmail.com)
-    [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573112939462)
+</div>
+
+<p align="center"><em>Desarrollador en formación en Politécnico Colombiano Jaime Isaza Cadavid, Técnico en Programación de Sistemas de Información</em></p>
 
 ## Sobre mí
 
@@ -53,10 +54,10 @@
                <br>
 <h3 align="center">Kakureya</h3>
 <div align="center">                                       
-<a href="[[ENLACE_GITHUB_PROYECTO]](https://github.com/miguelczz/Kakureya)" target="_blank"><img src="kakureya/static/images/readme/inicio.png" width="400" alt="Kakureya"></a>
+<a href="https://github.com/miguelczz/Kakureya" target="_blank"><img src="kakureya/static/images/readme/inicio.png" width="400" alt="Kakureya"></a>
 <br>
 <p>
-<a href="[ENLACE_GITHUB_PROYECTO]" target="_blank">
+<a href="https://github.com/miguelczz/Kakureya" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="[ENLACE_DEPLOY]" target="_blank">
