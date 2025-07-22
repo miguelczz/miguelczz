@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center"><b>Hola, soy Miguel Zuluaga </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    <h1 align="center"><b>Hola, soy Miguel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nupezqmox42gqqvpt3jdq0a9arj8tnys7dsxj8uk&rid=giphy.gif&ct=g" height='330px' width='500px'/>
 </div>
 
