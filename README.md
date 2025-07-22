@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://github.com/miguelczz" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-miguelczz-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <a href="https://www.linkedin.com/in/miguelzuluaga/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Miguel_Zuluaga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
