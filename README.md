@@ -2,11 +2,11 @@
 
 <div id="header" align="center">
     <h1 align="center"><b>Hola, soy Miguel  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nupezqmox42gqqvpt3jdq0a9arj8tnys7dsxj8uk&rid=giphy.gif&ct=g" height='300px' width='500px''/>
+    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nupezqmox42gqqvpt3jdq0a9arj8tnys7dsxj8uk&rid=giphy.gif&ct=g" height='330px' width='500px''/>
 </div>
 
 
-<p align="center"><em>A web developer at <a href="[https://www.soyhenry.com/?gad=1](https://www.politecnicojic.edu.co/)">Politecnico Colombiano Jaime Isaza Cadavid</a> Professional technician in Information Systems Programming</em></p>
+<p align="center"><em>A web developer at <a href="[https://www.soyhenry.com/?gad=1](https://www.politecnicojic.edu.co/)">Politecnico Colombiano Jaime Isaza Cadavid</a> Technician in Information Systems Programming</em></p>
 
 
 ```
