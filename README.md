@@ -10,17 +10,15 @@
         <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <a href="https://www.linkedin.com/in/miguelzuluaga/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Miguel_Zuluaga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:miguelzuluaga201@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-miguelzuluaga201@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://wa.me/573112939462">
-        <img src="https://img.shields.io/badge/WhatsApp-3112939462-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+        <img src="https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
 </p>
-
----
 
 ## Sobre mí
 
@@ -28,42 +26,7 @@
 - 💻 Desarrollador en formación
 - 🌱 Combinación de aprendizaje autodidacta y formación académica
 - 🏆 Ganador de premios a mejor proyecto en mi institución
-
----
-
-## Tecnologías
-
-<p align="center">
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    </a>
-    <a href="https://www.java.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-    </a>
-    <a href="https://spring.io/" target="_blank">
-        <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-    </a>
-    <a href="https://reactjs.org/" target="_blank">
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-    </a>
-    <a href="https://aws.amazon.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    </a>
-    <a href="https://github.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-</p>
-
----
+<br>
 
 ## Proyectos destacados
 <table>
@@ -86,7 +49,9 @@
 <br>
 <h3 align="center">Kakureya</h3>
 <div align="center">
-<a href="https://github.com/miguelczz/Kakureya" target="_blank"><img src="https://github.com/miguelczz/Kakureya/static/images/readme/inicio.png" width="400" alt="Kakureya"></a>
+<a href="https://github.com/miguelczz/Kakureya" target="_blank">
+  <img src="https://github.com/miguelczz/Kakureya/static/images/readme/inicio.png" width="400" alt="Kakureya">
+</a>
 <br>
 <p>
 <a href="https://github.com/miguelczz/Kakureya" target="_blank">
