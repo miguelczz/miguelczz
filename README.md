@@ -6,10 +6,10 @@
 <p align="center"><em>Desarrollador en formación en Politécnico Colombiano Jaime Isaza Cadavid, Técnico en Programación de Sistemas de Información</em></p>
 
 <p align="center">
-    <a href="https://github.com/miguelczz" target="_blank">
+    <a href="https://github.com/miguelczz">
         <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://www.linkedin.com/in/miguelzuluaga/" target="_blank">
+    <a href="https://www.linkedin.com/in/miguelzuluaga/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:miguelzuluaga201@gmail.com">
