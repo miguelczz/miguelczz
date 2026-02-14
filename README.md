@@ -74,7 +74,7 @@
 <td width="50%">
 <h3 align="center">Talky</h3>
 <div align="center">
-<a href="https://github.com/miguelczz/Talky" target="_blank"><img src="https://github.com/miguelczz/Talky/blob/main/src/assets/images/readme/inicio.png" width="550" alt="Talky"></a>
+<a href="https://github.com/miguelczz/Talky" target="_blank"><img src="https://github.com/miguelczz/Talky/blob/main/frontend/src/assets/images/readme/inicio.png" width="550" alt="Talky"></a>
 <p>
 <a href="https://github.com/miguelczz/Talky" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-3F51B5?style=for-the-badge&logo=github&logoColor=white">
