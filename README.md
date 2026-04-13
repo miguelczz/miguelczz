@@ -22,29 +22,27 @@ Desarrollador con enfoque en IA y arquitecturas escalables. Técnico en Programa
 
 ### Stack Tecnológico
 
-**Lenguajes**
+### **Lenguajes de Programación**
+`Python`, `Java`, `TypeScript`, `JavaScript`
 
-> `Python` `Java` `TypeScript` `JavaScript`
+### **Desarrollo Web**
+**Backend:** `FastAPI`, `Django`, `Spring Boot`
+**Frontend & UI:** `React`, `TailwindCSS`, `Bootstrap`
 
-**Backend & Frameworks**
+### **Ingeniería de Agentes e Inteligencia Artificial**
+**Frameworks & Orquestación:** `LangGraph`, `LangChain`, `LiteLLM`
+**Arquitectura de Agentes:** `Multi-Agent Systems`, `Judge Systems`, `Security Layers`, `RAG Systems`
+**Habilidades y Herramientas:** `Agentic Tools`, `Skills`, `Harness`, `Function Calling`
 
-> `FastAPI` `Django` `SpringBoot`
+### **Ecosistema de Datos y Memoria**
+**Bases de Datos Relacionales:** `PostgreSQL`
+**Bases de Datos Vectoriales & Grafos:** `Qdrant`, `FalkorDB`
+**Caché, Mensajería y Encolamiento:** `Redis`, `RabbitMQ`
 
-**Frontend & UI**
-
-> `React` `TailwindCSS` `Bootstrap`
-
-**Agentic Engineering**
-
-> `MCP` `Tools` `Skills` `Multi-Agent`  `Judge System` `Security Layer` `LangGraph` `LangChain` `LiteLLM` `RAG System`
-
-**Observabilidad & Orquestación**
-
-> `Langfuse` `MCP` `LiteLLM` `AG-UI`
-
-**Infraestructura & Bases de Datos**
-
-> `Docker` `AWS` `PostgreSQL` `Redis` `Qdrant` `FalkorDB`
+### **Observabilidad, Protocolos y DevOps**
+* **Monitoreo de LLMs:** `Langfuse`
+* **Protocolos e Interfaz:** `MCP (Model Context Protocol)`, `AGUI`
+* **Infraestructura:** `Docker`, `AWS`
 
 ---
 
