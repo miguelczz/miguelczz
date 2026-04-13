@@ -16,23 +16,35 @@
 
 ### Perfil Profesional
 
-Desarrollador especializado en IA y arquitecturas escalables. Técnico en Programación y estudiante de Ingeniería de Software en UNIMINUTO. Enfocado en la implementación de sistemas multi-agente, Clean Architecture y optimización de flujos técnicos mediante LLMs. Ganador de múltiples premios a mejor proyecto institucional.
+Desarrollador con enfoque en IA y arquitecturas escalables. Técnico en Programación y estudiante de Ingeniería de Software en UNIMINUTO. Centrado en la implementación de sistemas multi-agente, Clean Architecture y optimización de flujos técnicos mediante LLMs. 
 
 ---
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
+
+**Lenguajes**
+
+> `Python` `Java` `TypeScript` `JavaScript`
 
 **Backend & Frameworks**
-> `Python` `FastAPI` `Django` `Java` `SpringBoot`
+
+> `FastAPI` `Django` `SpringBoot`
 
 **Frontend & UI**
-> `React` `TypeScript` `TailwindCSS` `Bootstrap`
 
-**AI, Data & Analytics**
-> `LLM Orchestration` `RAG` `Vector DBs` `Langfuse` `FalkorDB`
+> `React` `TailwindCSS` `Bootstrap`
 
-**Infraestructura & DBs**
-> `Docker` `AWS` `PostgreSQL` `Redis`
+**Agentic Engineering**
+
+> `MCP` `Tools` `Skills` `Multi-Agent`  `Judge System` `Security Layer` `LangGraph` `LangChain` `LiteLLM` `RAG System`
+
+**Observabilidad & Orquestación**
+
+> `Langfuse` `MCP` `LiteLLM` `AG-UI`
+
+**Infraestructura & Bases de Datos**
+
+> `Docker` `AWS` `PostgreSQL` `Redis` `Qdrant` `FalkorDB`
 
 ---
 
@@ -41,7 +53,7 @@ Desarrollador especializado en IA y arquitecturas escalables. Técnico en Progra
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Agente Experto WiFi (Pipe)</h3>
+<h3 align="center">Agente Experto WiFi</h3>
 <div align="center">
 <a href="https://github.com/miguelczz/Pipe" target="_blank"><img src="https://github.com/miguelczz/Pipe/raw/main/docs/assets/banner_preview.png" alt="Agente WiFi"></a>
 <p>
