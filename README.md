@@ -86,9 +86,6 @@ Desarrollador con enfoque en IA y arquitecturas escalables. Técnico en Programa
 <a href="https://github.com/miguelczz/Kakureya" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-FF6F00?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://kakureya-72c3bcabd294.herokuapp.com/" target="_blank">
-<img src="https://img.shields.io/badge/DEMO-FF4500?style=for-the-badge">
-</a>
 </p>
 <p>Aplicación web para la gestión de pedidos y despachos de comida japonesa a domicilio. Desarrollado con Python, Django, JavaScript, Bootstrap, AWS y PostgreSQL.</p>
 <p>🏆 Certificado mejor proyecto PPI T&T categoría tercer semestre año 2025-1</p>
