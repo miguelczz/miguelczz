@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/miguelczz"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/miguelzuluaga/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/miguelczz"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
     <a href="mailto:miguelzuluaga201@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>
     <a href="https://wa.me/573112939462"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 </p>
@@ -22,27 +22,38 @@ Desarrollador con enfoque en IA y arquitecturas escalables. Técnico en Programa
 
 ### Stack Tecnológico
 
-### **Lenguajes de Programación**
-`Python`, `Java`, `TypeScript`, `JavaScript`
+#### **Lenguajes de Programación**
+> `Python` &nbsp; `Java` &nbsp; `TypeScript` &nbsp; `JavaScript`
 
-### **Desarrollo Web**
-**Backend:** `FastAPI`, `Django`, `Spring Boot`
-**Frontend & UI:** `React`, `TailwindCSS`, `Bootstrap`
+#### **Desarrollo Web**
 
-### **Ingeniería de Agentes e Inteligencia Artificial**
-**Frameworks & Orquestación:** `LangGraph`, `LangChain`, `LiteLLM`
-**Arquitectura de Agentes:** `Multi-Agent Systems`, `Judge Systems`, `Security Layers`, `RAG Systems`
-**Habilidades y Herramientas:** `Agentic Tools`, `Skills`, `Harness`, `Function Calling`
+> **Backend:** &nbsp; `FastAPI` &nbsp; `Django` &nbsp; `Spring Boot`
 
-### **Ecosistema de Datos y Memoria**
-**Bases de Datos Relacionales:** `PostgreSQL`
-**Bases de Datos Vectoriales & Grafos:** `Qdrant`, `FalkorDB`
-**Caché, Mensajería y Encolamiento:** `Redis`, `RabbitMQ`
+> **Frontend & UI:** &nbsp; `React` &nbsp; `TailwindCSS` &nbsp; `Bootstrap`
 
-### **Observabilidad, Protocolos y DevOps**
-* **Monitoreo de LLMs:** `Langfuse`
-* **Protocolos e Interfaz:** `MCP (Model Context Protocol)`, `AGUI`
-* **Infraestructura:** `Docker`, `AWS`
+#### **Ingeniería de Agentes e Inteligencia Artificial**
+
+> **Frameworks & Orquestación:** &nbsp; `LangGraph` &nbsp; `LangChain` &nbsp; `LiteLLM`
+
+> **Arquitectura de Agentes:** &nbsp; `Multi-Agent Systems` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `RAG Systems`
+
+> **Habilidades y Herramientas:** &nbsp; `Agentic Tools` &nbsp; `Skills` &nbsp; `Harness` &nbsp; `Function Calling`
+
+#### **Ecosistema de Datos y Memoria**
+
+> **Bases de Datos Relacionales:** &nbsp; `PostgreSQL`
+
+> **Bases de Datos Vectoriales & Grafos:** &nbsp; `Qdrant` &nbsp; `FalkorDB`
+
+> **Caché, Mensajería y Encolamiento:** &nbsp; `Redis` &nbsp; `RabbitMQ`
+
+#### **Observabilidad, Protocolos y DevOps**
+
+> **Monitoreo de LLMs:** &nbsp; `Langfuse`
+
+> **Protocolos e Interfaz:** &nbsp; `MCP (Model Context Protocol)` &nbsp; `AGUI`
+
+> **Infraestructura:** &nbsp; `Docker` &nbsp; `AWS`
 
 ---
 
