@@ -65,7 +65,7 @@ Desarrollador con enfoque en Inteligencia Artificial y arquitecturas escalables.
 <h3 align="center">Agente Experto WiFi</h3>
 <div align="center">
 <a href="https://github.com/miguelczz/Pipe" target="_blank">
-  <img src="https://github.com/miguelczz/Pipe/blob/main/frontend/src/assets/readme/home.png" alt="Agente WiFi">
+  <img src="https://github.com/user-attachments/assets/f3c4363f-d424-496f-8be6-7373d6e870b5" alt="Agente WiFi">
 </a>
 <p>
 <a href="https://github.com/miguelczz/Pipe" target="_blank">
