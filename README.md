@@ -16,7 +16,7 @@
 
 ### Perfil Profesional
 
-Desarrollador con enfoque en IA y arquitecturas escalables. Técnico en Programación y estudiante de Ingeniería de Software en UNIMINUTO. Centrado en la implementación de sistemas multi-agente, Clean Architecture y optimización de flujos técnicos mediante LLMs. 
+Desarrollador con enfoque en Inteligencia Artificial y arquitecturas escalables. Técnico en Programación y estudiante de Ingeniería de Software en UNIMINUTO. Centrado en la implementación de sistemas multi-agente, Clean Architecture y optimización de flujos técnicos mediante LLMs. 
 
 ---
 
@@ -39,14 +39,6 @@ Desarrollador con enfoque en IA y arquitecturas escalables. Técnico en Programa
 
 > **Habilidades y Herramientas:** &nbsp; `Agentic Tools` &nbsp; `Skills` &nbsp; `Harness` &nbsp; `Function Calling`
 
-#### **Ecosistema de Datos y Memoria**
-
-> **Bases de Datos Relacionales:** &nbsp; `PostgreSQL`
-
-> **Bases de Datos Vectoriales & Grafos:** &nbsp; `Qdrant` &nbsp; `FalkorDB`
-
-> **Caché, Mensajería y Encolamiento:** &nbsp; `Redis` &nbsp; `RabbitMQ`
-
 #### **Observabilidad, Protocolos y DevOps**
 
 > **Monitoreo de LLMs:** &nbsp; `Langfuse`
@@ -54,6 +46,14 @@ Desarrollador con enfoque en IA y arquitecturas escalables. Técnico en Programa
 > **Protocolos e Interfaz:** &nbsp; `MCP (Model Context Protocol)` &nbsp; `AGUI`
 
 > **Infraestructura:** &nbsp; `Docker` &nbsp; `AWS`
+
+#### **Ecosistema de Datos y Memoria**
+
+> **Bases de Datos Relacionales:** &nbsp; `PostgreSQL`
+
+> **Bases de Datos Vectoriales & Grafos:** &nbsp; `Qdrant` &nbsp; `FalkorDB`
+
+> **Caché, Mensajería y Encolamiento:** &nbsp; `Redis` &nbsp; `RabbitMQ`
 
 ---
 
