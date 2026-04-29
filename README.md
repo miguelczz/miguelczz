@@ -118,6 +118,7 @@ Desarrollador con enfoque en Inteligencia Artificial y arquitecturas escalables.
 </a>
 </p>
 <p>Asistente virtual educativo que permite a los usuarios practicar inglés básico mediante interacción conversacional y lecciones guiadas. Desarrollado con React, SpringBoot, N8N y AWS.</p>
+<p>🏆 Certificado mejor proyecto PPI T&T categoría cuarto semestre año 2025-2</p>
 </div>
 </td>
 </tr>
