@@ -2,7 +2,7 @@
     <h1><b>Miguel Zuluaga</b></h1>
     <p><b>Técnico en Programación de Sistemas de Información</b></p>
     <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height='280px' width='420px' style="border-radius: 10px;"/>
-    <p align="center"><em>Actualmente estudiante de Ingeniería de Software | Universidad UNIMINUTO</em></p>
+    <p align="center"><em>Estudiante de Ingeniería de Software | Corporación Universitaria Minuto de Dios</em></p>
 </div>
 
 <p align="center">
