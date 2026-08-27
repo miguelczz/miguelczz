@@ -7,7 +7,6 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/miguelzuluaga/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-    <a href="https://github.com/miguelczz"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
     <a href="mailto:miguelzuluaga201@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>
     <a href="https://wa.me/573112939462"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 </p>
@@ -76,18 +75,35 @@ Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos com
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">ISSI HR</h3>
+<div align="center">
+<img src="issi-hr-hero.png" width="450" alt="ISSI HR">
+<p>
+<a href="https://issiagent.com" target="_blank">
+<img src="https://img.shields.io/badge/SITIO_WEB-8B5CF6?style=for-the-badge&logoColor=white">
+</a>
+</p>
+<p>Plataforma SaaS B2B multi-tenant de gestión de talento humano para empresas colombianas: automatiza selección de personal, evaluación de desempeño y comunicación interna a través de agentes de IA conversacionales por WhatsApp.</p>
+</div>
+</td>
+
+<td width="50%">
 <h3 align="center">Agente Experto WiFi</h3>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f3c4363f-d424-496f-8be6-7373d6e870b5" alt="Agente WiFi">
 <p>Analizador web multi-agente y multimodal de redes Wi-Fi que transforma capturas de Wireshark en diagnósticos precisos mediante IA. Optimizado con una arquitectura de Skills, Tools y Judge System.</p>
 </div>
 </td>
+</tr>
+</table>
 
-<td width="50%">
+<table>
+<tr>
+<td width="33%">
 <h3 align="center">Kakureya</h3>
 <div align="center">
 <a href="https://github.com/miguelczz/Kakureya" target="_blank">
-  <img src="https://github.com/miguelczz/Kakureya/blob/main/kakureya/static/images/readme/inicio.png" width="450" alt="Kakureya">
+  <img src="https://github.com/miguelczz/Kakureya/blob/main/kakureya/static/images/readme/inicio.png" width="300" alt="Kakureya">
 </a>
 <p>
 <a href="https://github.com/miguelczz/Kakureya" target="_blank">
@@ -96,16 +112,14 @@ Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos com
 </p>
 <p>Aplicación web para la gestión de pedidos y despachos de comida japonesa a domicilio. Desarrollado con Python, Django, JavaScript, Bootstrap, AWS y PostgreSQL.</p>
 <p>🏆 Certificado mejor proyecto PPI T&T categoría tercer semestre año 2025-1</p>
-<img src="certificado-kakureya.png" width="300" alt="Certificado Kakureya">
+<img src="certificado-kakureya.png" width="200" alt="Certificado Kakureya">
 </div>
-</td>  
-</tr>
+</td>
 
-<tr>
-<td width="50%">
+<td width="33%">
 <h3 align="center">Forest Custodian</h3>
 <div align="center">
-<a href="https://github.com/miguelczz/ForestCustodian" target="_blank"><img src="https://github.com/miguelczz/ForestCustodian/blob/main/assets/images/readme/inicio.png" alt="Forest Custodian"></a>
+<a href="https://github.com/miguelczz/ForestCustodian" target="_blank"><img src="https://github.com/miguelczz/ForestCustodian/blob/main/assets/images/readme/inicio.png" width="300" alt="Forest Custodian"></a>
 <p>
 <a href="https://github.com/miguelczz/ForestCustodian" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-4CAF50?style=for-the-badge&logo=github&logoColor=white">
@@ -113,14 +127,14 @@ Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos com
 </p>
 <p>Videojuego 2D que promueve la conciencia ambiental mediante dinámicas educativas y retos simbólicos. Desarrollado en Python con Pygame aplicando enfoque modular.</p>
 <p>🏆 Certificado mejor proyecto PPI T&T categoría primer semestre año 2024-1</p>
-<img src="certificado-forestcustodian.png" width="300" alt="Certificado Forest Custodian">
+<img src="certificado-forestcustodian.png" width="200" alt="Certificado Forest Custodian">
 </div>
 </td>
 
-<td width="50%">
+<td width="33%">
 <h3 align="center">Talky</h3>
 <div align="center">
-<a href="https://github.com/miguelczz/Talky" target="_blank"><img src="https://github.com/miguelczz/Talky/blob/main/frontend/src/assets/images/readme/inicio.png" width="450" alt="Talky"></a>
+<a href="https://github.com/miguelczz/Talky" target="_blank"><img src="https://github.com/miguelczz/Talky/blob/main/frontend/src/assets/images/readme/inicio.png" width="300" alt="Talky"></a>
 <p>
 <a href="https://github.com/miguelczz/Talky" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-3F51B5?style=for-the-badge&logo=github&logoColor=white">
@@ -128,7 +142,7 @@ Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos com
 </p>
 <p>Asistente virtual educativo que permite a los usuarios practicar inglés básico mediante interacción conversacional y lecciones guiadas. Desarrollado con React, SpringBoot, N8N y AWS.</p>
 <p>🏆 Certificado mejor proyecto PPI T&T categoría cuarto semestre año 2025-2</p>
-<img src="certificado-talky.png" width="300" alt="Certificado Talky">
+<img src="certificado-talky.png" width="200" alt="Certificado Talky">
 </div>
 </td>
 </tr>
