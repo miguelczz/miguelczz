@@ -78,14 +78,7 @@ Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos com
 <td width="50%">
 <h3 align="center">Agente Experto WiFi</h3>
 <div align="center">
-<a href="https://github.com/miguelczz/Agente-Experto-WiFi" target="_blank">
   <img src="https://github.com/user-attachments/assets/f3c4363f-d424-496f-8be6-7373d6e870b5" alt="Agente WiFi">
-</a>
-<p>
-<a href="https://github.com/miguelczz/Agente-Experto-WiFi" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-4F46E5?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
 <p>Analizador web multi-agente y multimodal de redes Wi-Fi que transforma capturas de Wireshark en diagnósticos precisos mediante IA. Optimizado con una arquitectura de Skills, Tools y Judge System.</p>
 </div>
 </td>
@@ -103,7 +96,7 @@ Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos com
 </p>
 <p>Aplicación web para la gestión de pedidos y despachos de comida japonesa a domicilio. Desarrollado con Python, Django, JavaScript, Bootstrap, AWS y PostgreSQL.</p>
 <p>🏆 Certificado mejor proyecto PPI T&T categoría tercer semestre año 2025-1</p>
-<img src="./assets/certificado-kakureya.png" width="220" alt="Certificado Kakureya">
+<img src="certificado-kakureya.png" width="300" alt="Certificado Kakureya">
 </div>
 </td>  
 </tr>
@@ -120,7 +113,7 @@ Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos com
 </p>
 <p>Videojuego 2D que promueve la conciencia ambiental mediante dinámicas educativas y retos simbólicos. Desarrollado en Python con Pygame aplicando enfoque modular.</p>
 <p>🏆 Certificado mejor proyecto PPI T&T categoría primer semestre año 2024-1</p>
-<img src="./assets/certificado-forestcustodian.png" width="220" alt="Certificado Forest Custodian">
+<img src="certificado-forestcustodian.png" width="300" alt="Certificado Forest Custodian">
 </div>
 </td>
 
@@ -135,7 +128,7 @@ Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos com
 </p>
 <p>Asistente virtual educativo que permite a los usuarios practicar inglés básico mediante interacción conversacional y lecciones guiadas. Desarrollado con React, SpringBoot, N8N y AWS.</p>
 <p>🏆 Certificado mejor proyecto PPI T&T categoría cuarto semestre año 2025-2</p>
-<img src="./assets/certificado-talky.png" width="220" alt="Certificado Talky">
+<img src="certificado-talky.png" width="300" alt="Certificado Talky">
 </div>
 </td>
 </tr>
