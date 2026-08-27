@@ -20,6 +20,20 @@ Desarrollador con enfoque en Inteligencia Artificial y arquitecturas escalables.
 
 ---
 
+### Experiencia Profesional
+
+**3C Community S.A.S.** — Desarrollador de Software &nbsp;·&nbsp; abr 2026 - actualidad
+
+Desarrollo de una plataforma SaaS B2B multi-tenant para MiPymes colombianas, automatizando procesos de selección y gestión de personal a través de WhatsApp: agentes de IA conversacionales, ranking semántico de hojas de vida y panel web de administración.
+
+> `Next.js` &nbsp; `FastAPI` &nbsp; `PostgreSQL (RLS)` &nbsp; `Redis` &nbsp; `Docker` &nbsp; `WhatsApp API` &nbsp; `RAG` &nbsp; `LiteLLM` &nbsp; `Langfuse`
+
+**Tigo Colombia** — Prácticas Profesionales &nbsp;·&nbsp; oct 2025 - abr 2026
+
+Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos complejos, bajo Clean Architecture, con orquestación multi-modelo y fallback automático para garantizar la resiliencia de los servicios.
+
+---
+
 ### Stack Tecnológico
 
 #### **Lenguajes de Programación**
@@ -64,11 +78,11 @@ Desarrollador con enfoque en Inteligencia Artificial y arquitecturas escalables.
 <td width="50%">
 <h3 align="center">Agente Experto WiFi</h3>
 <div align="center">
-<a href="https://github.com/miguelczz/Pipe" target="_blank">
+<a href="https://github.com/miguelczz/Agente-Experto-WiFi" target="_blank">
   <img src="https://github.com/user-attachments/assets/f3c4363f-d424-496f-8be6-7373d6e870b5" alt="Agente WiFi">
 </a>
 <p>
-<a href="https://github.com/miguelczz/Pipe" target="_blank">
+<a href="https://github.com/miguelczz/Agente-Experto-WiFi" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-4F46E5?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
@@ -89,6 +103,7 @@ Desarrollador con enfoque en Inteligencia Artificial y arquitecturas escalables.
 </p>
 <p>Aplicación web para la gestión de pedidos y despachos de comida japonesa a domicilio. Desarrollado con Python, Django, JavaScript, Bootstrap, AWS y PostgreSQL.</p>
 <p>🏆 Certificado mejor proyecto PPI T&T categoría tercer semestre año 2025-1</p>
+<img src="./assets/certificado-kakureya.png" width="220" alt="Certificado Kakureya">
 </div>
 </td>  
 </tr>
@@ -105,6 +120,7 @@ Desarrollador con enfoque en Inteligencia Artificial y arquitecturas escalables.
 </p>
 <p>Videojuego 2D que promueve la conciencia ambiental mediante dinámicas educativas y retos simbólicos. Desarrollado en Python con Pygame aplicando enfoque modular.</p>
 <p>🏆 Certificado mejor proyecto PPI T&T categoría primer semestre año 2024-1</p>
+<img src="./assets/certificado-forestcustodian.png" width="220" alt="Certificado Forest Custodian">
 </div>
 </td>
 
@@ -119,6 +135,7 @@ Desarrollador con enfoque en Inteligencia Artificial y arquitecturas escalables.
 </p>
 <p>Asistente virtual educativo que permite a los usuarios practicar inglés básico mediante interacción conversacional y lecciones guiadas. Desarrollado con React, SpringBoot, N8N y AWS.</p>
 <p>🏆 Certificado mejor proyecto PPI T&T categoría cuarto semestre año 2025-2</p>
+<img src="./assets/certificado-talky.png" width="220" alt="Certificado Talky">
 </div>
 </td>
 </tr>
