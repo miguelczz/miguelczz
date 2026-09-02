@@ -31,6 +31,8 @@ Desarrollo de una plataforma SaaS B2B multi-tenant para MiPymes colombianas, aut
 
 Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos complejos, bajo Clean Architecture, con orquestación multi-modelo y fallback automático para garantizar la resiliencia de los servicios.
 
+> `MCP` &nbsp; `TShark` &nbsp; `LiteLLM` &nbsp; `Qdrant` &nbsp; `Docker` &nbsp; `Langfuse` &nbsp; `Python` &nbsp; `FastAPI` &nbsp; `FalkorDB` &nbsp; `Multi-Agent Systems` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `RAG Systems` &nbsp; `Redis` &nbsp; `Agentic Tools` &nbsp; `Skills` &nbsp; 
+
 ---
 
 ### Stack Tecnológico
@@ -62,7 +64,7 @@ Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos com
 
 #### **Ecosistema de Datos y Memoria**
 
-> **Bases de Datos Relacionales:** &nbsp; `PostgreSQL`
+> **Bases de Datos Relacionales:** &nbsp; `PostgreSQL (RLS)`
 
 > **Bases de Datos Vectoriales & Grafos:** &nbsp; `Qdrant` &nbsp; `FalkorDB`
 
