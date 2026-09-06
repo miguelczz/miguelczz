@@ -92,11 +92,17 @@ Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos com
 <td width="50%">
 <h3 align="center">Agente Experto WiFi</h3>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f3c4363f-d424-496f-8be6-7373d6e870b5" alt="Agente WiFi">
+  <a href="https://github.com/miguelczz/wifi-expert-agent" target="_blank">
+    <img src="https://github.com/user-attachments/assets/f3c4363f-d424-496f-8be6-7373d6e870b5" alt="Agente WiFi">
+  </a>
+<p>
+<a href="https://github.com/miguelczz/wifi-expert-agent" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-0A66C2?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 <p>Analizador web multi-agente y multimodal de redes Wi-Fi que transforma capturas de Wireshark en diagnósticos precisos mediante IA. Optimizado con una arquitectura de Skills, Tools y Judge System.</p>
 </div>
 </td>
-</tr>
 </table>
 
 <table>
