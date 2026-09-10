@@ -1,8 +1,8 @@
 <div align="center">
     <h1><b>Miguel Zuluaga</b></h1>
-    <p><b>Técnico en Programación de Sistemas de Información</b></p>
+    <p><b>Full-Stack Software Developer · Applied AI Systems</b></p>
     <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height='280px' width='420px' style="border-radius: 10px;"/>
-    <p align="center"><em>Estudiante de Ingeniería de Software | Corporación Universitaria Minuto de Dios</em></p>
+    <p align="center"><em>B.S. in Software Engineering (In Progress, 5th Semester) · Corporación Universitaria Minuto de Dios</em></p>
 </div>
 
 <p align="center">
@@ -13,66 +13,84 @@
 
 ---
 
-### Perfil Profesional
+### Professional Summary
 
-Desarrollador con enfoque en Inteligencia Artificial y arquitecturas escalables. Técnico en Programación y estudiante de Ingeniería de Software en UNIMINUTO. Centrado en la implementación de sistemas multi-agente, Clean Architecture y optimización de flujos técnicos mediante LLMs. 
-
----
-
-### Experiencia Profesional
-
-**3C Community S.A.S.** — Desarrollador de Software &nbsp;·&nbsp; abr 2026 - actualidad
-
-Desarrollo de una plataforma SaaS B2B multi-tenant para MiPymes colombianas, automatizando procesos de selección y gestión de personal a través de WhatsApp: agentes de IA conversacionales, ranking semántico de hojas de vida y panel web de administración.
-
-> `Next.js` &nbsp; `FastAPI` &nbsp; `PostgreSQL (RLS)` &nbsp; `Redis` &nbsp; `Docker` &nbsp; `WhatsApp API` &nbsp; `RAG` &nbsp; `LiteLLM` &nbsp; `Langfuse`
-
-**Tigo Colombia** — Prácticas Profesionales &nbsp;·&nbsp; oct 2025 - abr 2026
-
-Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos complejos, bajo Clean Architecture, con orquestación multi-modelo y fallback automático para garantizar la resiliencia de los servicios.
-
-> `MCP` &nbsp; `TShark` &nbsp; `LiteLLM` &nbsp; `Qdrant` &nbsp; `Docker` &nbsp; `Langfuse` &nbsp; `Python` &nbsp; `FastAPI` &nbsp; `FalkorDB` &nbsp; `Multi-Agent Systems` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `RAG Systems` &nbsp; `Redis` &nbsp; `Agentic Tools` &nbsp; `Skills` &nbsp; 
+Software Developer specializing in applied AI systems, multi-agent orchestration, and backend architecture. Hands-on experience building production B2B SaaS platforms, implementing Clean Architecture, and integrating LLMs through the Model Context Protocol (MCP) and Retrieval-Augmented Generation (RAG) pipelines.
 
 ---
 
-### Stack Tecnológico
+### Professional Experience
 
-#### **Lenguajes de Programación**
-> `Python` &nbsp; `Java` &nbsp; `TypeScript` &nbsp; `JavaScript`
+**3C Community S.A.S.** — Software Developer &nbsp;·&nbsp; Apr 2026 - Present
 
-#### **Desarrollo Web**
+Development and operation of a multi-tenant B2B SaaS platform for recruitment, employee management, and performance reviews. Automated candidate/employee conversations over WhatsApp with AI agents and semantic CV ranking. Implemented identity and access control with Keycloak (OIDC) and per-tenant data isolation with PostgreSQL Row Level Security. Continuous deployment to production with Docker and GitHub Actions.
 
-> **Backend:** &nbsp; `FastAPI` &nbsp; `Django` &nbsp; `Spring Boot`
+> `Next.js` &nbsp; `TypeScript` &nbsp; `FastAPI` &nbsp; `PostgreSQL (RLS)` &nbsp; `SQLAlchemy` &nbsp; `Redis` &nbsp; `Celery` &nbsp; `Qdrant` &nbsp; `Keycloak` &nbsp; `Docker` &nbsp; `GitHub Actions` &nbsp; `WhatsApp API (Meta/Twilio)` &nbsp; `RAG` &nbsp; `LiteLLM`
 
-> **Frontend & UI:** &nbsp; `React` &nbsp; `TailwindCSS` &nbsp; `Bootstrap`
+**Tigo Colombia** — Software Developer, Professional Internship &nbsp;·&nbsp; Oct 2025 - Apr 2026 &nbsp;·&nbsp; Medellín, Colombia (On-site)
 
-#### **Ingeniería de Agentes e Inteligencia Artificial**
+Designed intelligent agents using LLMs to automate complex technical processes. Implemented following Clean Architecture, keeping the domain separate from infrastructure, with multi-model orchestration and automatic fallback to ensure service reliability.
 
-> **Frameworks & Orquestación:** &nbsp; `LangGraph` &nbsp; `LangChain` &nbsp; `LiteLLM`
+> `MCP` &nbsp; `TShark` &nbsp; `LiteLLM` &nbsp; `Qdrant` &nbsp; `Docker` &nbsp; `Langfuse` &nbsp; `Python` &nbsp; `FastAPI` &nbsp; `FalkorDB` &nbsp; `Multi-Agent Systems` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `RAG Systems` &nbsp; `Redis` &nbsp; `Agentic Tools` &nbsp; `Skills`
 
-> **Arquitectura de Agentes:** &nbsp; `Multi-Agent Systems` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `RAG Systems`
+**Audit Integral Advisors S.A.S.** — Technology Development Assistant &nbsp;·&nbsp; Jul 2024 - Aug 2025 &nbsp;·&nbsp; Remote
 
-> **Habilidades y Herramientas:** &nbsp; `Agentic Tools` &nbsp; `Skills` &nbsp; `Harness` &nbsp; `Function Calling`
+Developed technology solutions and automated internal processes. Data extraction and visualization in Python for auditing and organizational management information systems.
 
-#### **Observabilidad, Protocolos y DevOps**
-
-> **Monitoreo de LLMs:** &nbsp; `Langfuse`
-
-> **Protocolos e Interfaz:** &nbsp; `MCP (Model Context Protocol)` &nbsp; `AGUI`
-
-> **Infraestructura:** &nbsp; `Docker` &nbsp; `AWS`
-
-#### **Ecosistema de Datos y Memoria**
-
-> **Bases de Datos Relacionales:** &nbsp; `PostgreSQL (RLS)`
-
-> **Bases de Datos Vectoriales & Grafos:** &nbsp; `Qdrant` &nbsp; `FalkorDB`
-
-> **Caché, Mensajería y Encolamiento:** &nbsp; `Redis` &nbsp; `RabbitMQ`
+> `Python` &nbsp; `SQL` &nbsp; `Process Automation` &nbsp; `Data Visualization`
 
 ---
 
-## Proyectos destacados
+### Tech Stack
+
+#### **Languages**
+> `Python` &nbsp; `Java` &nbsp; `TypeScript` &nbsp; `JavaScript` &nbsp; `SQL`
+
+#### **Backend & Frontend Systems**
+
+> **Backend:** &nbsp; `FastAPI` &nbsp; `Django` &nbsp; `Spring Boot` &nbsp; `SQLAlchemy`
+
+> **Frontend & UI:** &nbsp; `React` &nbsp; `Next.js` &nbsp; `TailwindCSS` &nbsp; `Bootstrap`
+
+> **Game & Graphics:** &nbsp; `Pygame`
+
+#### **AI Systems & Agent Engineering**
+
+> **Orchestration & Frameworks:** &nbsp; `LangGraph` &nbsp; `LangChain` &nbsp; `LiteLLM (Groq / Gemini / OpenAI)`
+
+> **Agent Architecture:** &nbsp; `Multi-Agent Systems` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `RAG Architectures`
+
+> **Agent Tooling:** &nbsp; `Agentic Tools` &nbsp; `Skills` &nbsp; `Harness` &nbsp; `Function Calling`
+
+#### **Observability, Protocols & DevOps**
+
+> **LLM Observability:** &nbsp; `Langfuse`
+
+> **Protocols & Interfaces:** &nbsp; `MCP (Model Context Protocol)` &nbsp; `AGUI`
+
+> **Infrastructure & CI/CD:** &nbsp; `Docker` &nbsp; `AWS` &nbsp; `Hetzner` &nbsp; `Backblaze B2` &nbsp; `Cloudflare` &nbsp; `GitHub Actions`
+
+> **Testing & Quality:** &nbsp; `pytest` &nbsp; `Vitest` &nbsp; `Playwright`
+
+> **Identity & Auth:** &nbsp; `Keycloak (OIDC)`
+
+#### **Data Infrastructure & Memory**
+
+> **Relational:** &nbsp; `PostgreSQL (RLS)`
+
+> **Vector & Graph:** &nbsp; `Qdrant` &nbsp; `FalkorDB`
+
+> **Caching & Queuing:** &nbsp; `Redis` &nbsp; `Celery`
+
+#### **Integrations & Network Analysis**
+
+> **APIs & Messaging:** &nbsp; `WhatsApp API (Meta / Twilio)` &nbsp; `Wompi`
+
+> **Automation & Packet Inspection:** &nbsp; `n8n` &nbsp; `TShark (Wireshark)`
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
@@ -82,27 +100,28 @@ Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos com
 <img src="issi-hr-hero.png" width="450" alt="ISSI HR">
 <p>
 <a href="https://issiagent.com" target="_blank">
-<img src="https://img.shields.io/badge/SITIO_WEB-8B5CF6?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/WEBSITE-8B5CF6?style=for-the-badge&logoColor=white">
 </a>
 </p>
-<p>Plataforma SaaS B2B multi-tenant de gestión de talento humano para empresas colombianas: automatiza selección de personal, evaluación de desempeño y comunicación interna a través de agentes de IA conversacionales por WhatsApp.</p>
+<p>Multi-tenant B2B HR SaaS platform enabling companies to automate recruitment, talent management, and internal operations via conversational AI agents on WhatsApp.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">Agente Experto WiFi</h3>
+<h3 align="center">WiFi Expert Agent</h3>
 <div align="center">
-  <a href="https://github.com/miguelczz/wifi-expert-agent" target="_blank">
-    <img src="https://github.com/user-attachments/assets/f3c4363f-d424-496f-8be6-7373d6e870b5" alt="Agente WiFi">
+  <a href="https://github.com/miguelczz/wifi_expert_agent" target="_blank">
+    <img src="https://github.com/user-attachments/assets/f3c4363f-d424-496f-8be6-7373d6e870b5" alt="WiFi Agent">
   </a>
 <p>
 <a href="https://github.com/miguelczz/wifi_expert_agent" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-0A66C2?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/CODE-0A66C2?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Analizador web multi-agente y multimodal de redes Wi-Fi que transforma capturas de Wireshark en diagnósticos precisos mediante IA. Optimizado con una arquitectura de Skills, Tools y Judge System.</p>
+<p>Multi-agent, multimodal web system converting raw Wireshark network captures into diagnostic reports using custom Skills, Agentic Tools, and a Judge System evaluation architecture.</p>
 </div>
 </td>
+</tr>
 </table>
 
 <table>
@@ -115,12 +134,12 @@ Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos com
 </a>
 <p>
 <a href="https://github.com/miguelczz/Kakureya" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-FF6F00?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/CODE-FF6F00?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Aplicación web para la gestión de pedidos y despachos de comida japonesa a domicilio. Desarrollado con Python, Django, JavaScript, Bootstrap, AWS y PostgreSQL.</p>
-<p>🏆 Certificado mejor proyecto PPI T&T categoría tercer semestre año 2025-1</p>
-<img src="certificado-kakureya.png" width="200" alt="Certificado Kakureya">
+<p>Web application for food delivery operations and order tracking. Built with Python, Django, JavaScript, Bootstrap, AWS, Wompi API, and PostgreSQL.</p>
+<p>🏆 Awarded Best Capstone Project — Third Semester Category</p>
+<img src="certificado-kakureya.png" width="200" alt="Kakureya Certificate">
 </div>
 </td>
 
@@ -130,12 +149,12 @@ Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos com
 <a href="https://github.com/miguelczz/ForestCustodian" target="_blank"><img src="https://github.com/miguelczz/ForestCustodian/blob/main/assets/images/readme/inicio.png" width="300" alt="Forest Custodian"></a>
 <p>
 <a href="https://github.com/miguelczz/ForestCustodian" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-4CAF50?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/CODE-4CAF50?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Videojuego 2D que promueve la conciencia ambiental mediante dinámicas educativas y retos simbólicos. Desarrollado en Python con Pygame aplicando enfoque modular.</p>
-<p>🏆 Certificado mejor proyecto PPI T&T categoría primer semestre año 2024-1</p>
-<img src="certificado-forestcustodian.png" width="200" alt="Certificado Forest Custodian">
+<p>2D environmental education game built using Python and Pygame, featuring a modular code design and interactive mechanics.</p>
+<p>🏆 Awarded Best Capstone Project — First Semester Category</p>
+<img src="certificado-forestcustodian.png" width="200" alt="Forest Custodian Certificate">
 </div>
 </td>
 
@@ -145,12 +164,12 @@ Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos com
 <a href="https://github.com/miguelczz/Talky" target="_blank"><img src="https://github.com/miguelczz/Talky/blob/main/frontend/src/assets/images/readme/inicio.png" width="300" alt="Talky"></a>
 <p>
 <a href="https://github.com/miguelczz/Talky" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-3F51B5?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/CODE-3F51B5?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Asistente virtual educativo que permite a los usuarios practicar inglés básico mediante interacción conversacional y lecciones guiadas. Desarrollado con React, SpringBoot, N8N y AWS.</p>
-<p>🏆 Certificado mejor proyecto PPI T&T categoría cuarto semestre año 2025-2</p>
-<img src="certificado-talky.png" width="200" alt="Certificado Talky">
+<p>Interactive language assistant providing automated conversational practice and lessons. Developed with React, Spring Boot, n8n, AWS, and TailwindCSS.</p>
+<p>🏆 Awarded Best Capstone Project — Fourth Semester Category</p>
+<img src="certificado-talky.png" width="200" alt="Talky Certificate">
 </div>
 </td>
 </tr>
