@@ -1,6 +1,7 @@
 <div align="center">
     <h1><b>Miguel Zuluaga</b></h1>
     <p><b>Full-Stack Software Developer · Applied AI Systems</b></p>
+    <p><b>English</b> · <a href="README.es.md">Español</a></p>
     <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height='280px' width='420px' style="border-radius: 10px;"/>
     <p align="center"><em>B.S. in Software Engineering (In Progress, 5th Semester) · Corporación Universitaria Minuto de Dios</em></p>
 </div>
@@ -21,7 +22,7 @@ Software Developer specializing in applied AI systems, multi-agent orchestration
 
 ### Professional Experience
 
-**3C Community S.A.S.** — Software Developer &nbsp;·&nbsp; Apr 2026 - Present
+**3C Community S.A.S.** — Software Developer &nbsp;·&nbsp; Apr 2026 - Oct 2026
 
 Development and operation of a multi-tenant B2B SaaS platform for recruitment, employee management, and performance reviews. Automated candidate/employee conversations over WhatsApp with AI agents and semantic CV ranking. Implemented identity and access control with Keycloak (OIDC) and per-tenant data isolation with PostgreSQL Row Level Security. Continuous deployment to production with Docker and GitHub Actions.
 
@@ -58,7 +59,9 @@ Developed technology solutions and automated internal processes. Data extraction
 
 > **Orchestration & Frameworks:** &nbsp; `LangGraph` &nbsp; `LangChain` &nbsp; `LiteLLM (Groq / Gemini / OpenAI)`
 
-> **Agent Architecture:** &nbsp; `Multi-Agent Systems` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `RAG Architectures`
+> **Agent Architecture:** &nbsp; `Multi-Agent Systems` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `Input & Output Guardrails` &nbsp; `RAG Architectures`
+
+> **Voice AI:** &nbsp; `Deepgram` &nbsp; `Cartesia`
 
 > **Agent Tooling:** &nbsp; `Agentic Tools` &nbsp; `Skills` &nbsp; `Harness` &nbsp; `Function Calling`
 
@@ -66,11 +69,11 @@ Developed technology solutions and automated internal processes. Data extraction
 
 > **LLM Observability:** &nbsp; `Langfuse`
 
-> **Protocols & Interfaces:** &nbsp; `MCP (Model Context Protocol)` &nbsp; `AGUI`
+> **Protocols & Interfaces:** &nbsp; `MCP (Model Context Protocol)` &nbsp; `Custom MCP Server` &nbsp; `AGUI`
 
-> **Infrastructure & CI/CD:** &nbsp; `Docker` &nbsp; `AWS` &nbsp; `Hetzner` &nbsp; `Backblaze B2` &nbsp; `Cloudflare` &nbsp; `GitHub Actions`
+> **Infrastructure & CI/CD:** &nbsp; `Docker` &nbsp; `Google Cloud Run` &nbsp; `AWS` &nbsp; `Hetzner` &nbsp; `Backblaze B2` &nbsp; `Cloudflare` &nbsp; `GitHub Actions`
 
-> **Testing & Quality:** &nbsp; `pytest` &nbsp; `Vitest` &nbsp; `Playwright`
+> **Testing & Quality:** &nbsp; `pytest` &nbsp; `Vitest` &nbsp; `Playwright` &nbsp; `LLM Evals`
 
 > **Identity & Auth:** &nbsp; `Keycloak (OIDC)`
 
@@ -78,7 +81,7 @@ Developed technology solutions and automated internal processes. Data extraction
 
 > **Relational:** &nbsp; `PostgreSQL (RLS)`
 
-> **Vector & Graph:** &nbsp; `Qdrant` &nbsp; `FalkorDB`
+> **Vector & Graph:** &nbsp; `Qdrant` &nbsp; `pgvector` &nbsp; `FalkorDB`
 
 > **Caching & Queuing:** &nbsp; `Redis` &nbsp; `Celery`
 
@@ -91,6 +94,28 @@ Developed technology solutions and automated internal processes. Data extraction
 ---
 
 ## Featured Projects
+
+<table>
+<tr>
+<td width="100%">
+<h3 align="center">Cautelia</h3>
+<div align="center">
+<a href="https://github.com/miguelczz/cautelia" target="_blank">
+<img src="https://raw.githubusercontent.com/miguelczz/cautelia/main/docs/assets/banner.jpg" width="700" alt="Cautelia">
+</a>
+<p>
+<a href="https://cautelia.app" target="_blank">
+<img src="https://img.shields.io/badge/WEBSITE-B87333?style=for-the-badge&logoColor=white">
+</a>
+<a href="https://github.com/miguelczz/cautelia" target="_blank">
+<img src="https://img.shields.io/badge/CODE-0A66C2?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>AI agent that takes car-accident reports and answers auto-policy questions by chat or in-browser voice calls, in Spanish and English. It cites the exact policy clause it relies on and leaves every coverage and payment decision to a human adjuster. Built with React, TypeScript, FastAPI, LangGraph, Claude, PostgreSQL (RLS, pgvector), Deepgram, Cartesia, Langfuse and Google Cloud Run.</p>
+</div>
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
