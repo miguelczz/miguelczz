@@ -3,7 +3,7 @@
     <p><b>Full-Stack Software Developer · Applied AI Systems</b></p>
     <p><b>English</b> · <a href="README.es.md">Español</a></p>
     <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height='280px' width='420px' style="border-radius: 10px;"/>
-    <p align="center"><em>B.S. in Software Engineering (In Progress, 5th Semester) · Corporación Universitaria Minuto de Dios</em></p>
+    <p align="center"><em>B.S. in Software Engineering (In Progress, 6th Semester) · Corporación Universitaria Minuto de Dios</em></p>
 </div>
 
 <p align="center">
