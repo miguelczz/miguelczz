@@ -3,7 +3,7 @@
     <p><b>Desarrollador de Software · Sistemas de IA aplicada</b></p>
     <p><a href="README.md">English</a> · <b>Español</b></p>
     <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height='280px' width='420px' style="border-radius: 10px;"/>
-    <p align="center"><em>Ingeniería de Software (en curso, 5.º semestre) · Corporación Universitaria Minuto de Dios</em></p>
+    <p align="center"><em>Ingeniería de Software (en curso, 6.º semestre) · Corporación Universitaria Minuto de Dios</em></p>
 </div>
 
 <p align="center">
