@@ -111,7 +111,7 @@ Developed technology solutions and automated internal processes. Data extraction
 <img src="https://img.shields.io/badge/CODE-0A66C2?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>AI agent that takes car-accident reports and answers auto-policy questions by chat or in-browser voice calls, in Spanish and English. It cites the exact policy clause it relies on and leaves every coverage and payment decision to a human adjuster. Built with React, TypeScript, FastAPI, LangGraph, Claude, PostgreSQL (RLS, pgvector), Deepgram, Cartesia, Langfuse and Google Cloud Run.</p>
+<p>AI agent that takes car-accident reports and answers auto-policy questions by chat or in-browser voice calls, in Spanish and English. It cites the exact policy clause it relies on and leaves every coverage and payment decision to a human adjuster. Built with React, TypeScript, FastAPI, LangGraph, Claude, PostgreSQL (RLS, pgvector), Deepgram, Cartesia, Langfuse, Google Cloud Run, Input & Output Guardrails and a Custom MCP Server.</p>
 </div>
 </td>
 </tr>

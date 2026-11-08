@@ -111,7 +111,7 @@ Desarrollo de soluciones tecnológicas y automatización de procesos internos. E
 <img src="https://img.shields.io/badge/C%C3%93DIGO-0A66C2?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Agente de IA que recibe reportes de choques y responde preguntas sobre la póliza de auto por chat o por llamada en el navegador, en español e inglés. Cita la cláusula exacta en la que se apoya y deja cada decisión de cobertura y de pagos a un ajustador humano. Hecho con React, TypeScript, FastAPI, LangGraph, Claude, PostgreSQL (RLS, pgvector), Deepgram, Cartesia, Langfuse y Google Cloud Run.</p>
+<p>Agente de IA que recibe reportes de choques y responde preguntas sobre la póliza de auto por chat o por llamada en el navegador, en español e inglés. Cita la cláusula exacta en la que se apoya y deja cada decisión de cobertura y de pagos a un ajustador humano. Hecho con React, TypeScript, FastAPI, LangGraph, Claude, PostgreSQL (RLS, pgvector), Deepgram, Cartesia, Langfuse, Google Cloud Run, guardrails de entrada y salida y un servidor MCP propio.</p>
 </div>
 </td>
 </tr>
