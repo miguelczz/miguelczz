@@ -1,9 +1,9 @@
 <div align="center">
     <h1><b>Miguel Zuluaga</b></h1>
-    <p><b>Full-Stack Software Developer · Applied AI Systems</b></p>
-    <p><b>English</b> · <a href="README.es.md">Español</a></p>
+    <p><b>Desarrollador de Software · Sistemas de IA aplicada</b></p>
+    <p><b>Español</b> · <a href="README.en.md">English</a></p>
     <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height='280px' width='420px' style="border-radius: 10px;"/>
-    <p align="center"><em>B.S. in Software Engineering (In Progress, 6th Semester) · Corporación Universitaria Minuto de Dios</em></p>
+    <p align="center"><em>Ingeniería de Software (en curso, 6.º semestre) · Corporación Universitaria Minuto de Dios</em></p>
 </div>
 
 <p align="center">
@@ -14,86 +14,86 @@
 
 ---
 
-### Professional Summary
+### Perfil profesional
 
-Software Developer specializing in applied AI systems, multi-agent orchestration, and backend architecture. Hands-on experience building production B2B SaaS platforms, implementing Clean Architecture, and integrating LLMs through the Model Context Protocol (MCP) and Retrieval-Augmented Generation (RAG) pipelines.
+Desarrollador de software enfocado en sistemas de IA aplicada, orquestación multiagente y arquitectura backend. Experiencia práctica en plataformas SaaS B2B en producción, con Clean Architecture e integración de LLMs mediante Model Context Protocol (MCP) y flujos de generación aumentada por recuperación (RAG).
 
 ---
 
-### Professional Experience
+### Experiencia profesional
 
-**3C Community S.A.S.** — Software Developer &nbsp;·&nbsp; Apr 2026 - Oct 2026
+**3C Community S.A.S.** · Desarrollador de Software &nbsp;·&nbsp; abr. 2026 - oct. 2026
 
-Development and operation of a multi-tenant B2B SaaS platform for recruitment, employee management, and performance reviews. Automated candidate/employee conversations over WhatsApp with AI agents and semantic CV ranking. Implemented identity and access control with Keycloak (OIDC) and per-tenant data isolation with PostgreSQL Row Level Security. Continuous deployment to production with Docker and GitHub Actions.
+Desarrollo y operación de una plataforma SaaS B2B multiempresa para selección de personal, gestión de empleados y evaluación de desempeño. Automatización de la conversación con candidatos y empleados por WhatsApp con agentes de IA y ranking semántico de hojas de vida. Identidad y control de accesos con Keycloak (OIDC) y aislamiento de datos por empresa con Row Level Security de PostgreSQL. Despliegue continuo a producción con Docker y GitHub Actions.
 
 > `Next.js` &nbsp; `TypeScript` &nbsp; `FastAPI` &nbsp; `PostgreSQL (RLS)` &nbsp; `SQLAlchemy` &nbsp; `Redis` &nbsp; `Celery` &nbsp; `Qdrant` &nbsp; `Keycloak` &nbsp; `Docker` &nbsp; `GitHub Actions` &nbsp; `WhatsApp API (Meta/Twilio)` &nbsp; `RAG` &nbsp; `LiteLLM`
 
-**Tigo Colombia** — Software Developer, Professional Internship &nbsp;·&nbsp; Oct 2025 - Apr 2026 &nbsp;·&nbsp; Medellín, Colombia (On-site)
+**Tigo Colombia** · Desarrollador de Software, prácticas profesionales &nbsp;·&nbsp; oct. 2025 - abr. 2026 &nbsp;·&nbsp; Medellín, Colombia (presencial)
 
-Designed intelligent agents using LLMs to automate complex technical processes. Implemented following Clean Architecture, keeping the domain separate from infrastructure, with multi-model orchestration and automatic fallback to ensure service reliability.
+Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos complejos. Implementación con Clean Architecture, separando el dominio de la infraestructura, con orquestación de varios modelos y fallback automático para mantener el servicio disponible.
 
-> `MCP` &nbsp; `TShark` &nbsp; `LiteLLM` &nbsp; `Qdrant` &nbsp; `Docker` &nbsp; `Langfuse` &nbsp; `Python` &nbsp; `FastAPI` &nbsp; `FalkorDB` &nbsp; `Multi-Agent Systems` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `RAG Systems` &nbsp; `Redis` &nbsp; `Agentic Tools` &nbsp; `Skills`
+> `MCP` &nbsp; `TShark` &nbsp; `LiteLLM` &nbsp; `Qdrant` &nbsp; `Docker` &nbsp; `Langfuse` &nbsp; `Python` &nbsp; `FastAPI` &nbsp; `FalkorDB` &nbsp; `Sistemas multiagente` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `Sistemas RAG` &nbsp; `Redis` &nbsp; `Agentic Tools` &nbsp; `Skills`
 
-**Audit Integral Advisors S.A.S.** — Technology Development Assistant &nbsp;·&nbsp; Jul 2024 - Aug 2025 &nbsp;·&nbsp; Remote
+**Audit Integral Advisors S.A.S.** · Asistente de Desarrollo Tecnológico &nbsp;·&nbsp; jul. 2024 - ago. 2025 &nbsp;·&nbsp; Remoto
 
-Developed technology solutions and automated internal processes. Data extraction and visualization in Python for auditing and organizational management information systems.
+Desarrollo de soluciones tecnológicas y automatización de procesos internos. Extracción y visualización de datos en Python para sistemas de información de auditoría y gestión organizacional.
 
-> `Python` &nbsp; `SQL` &nbsp; `Process Automation` &nbsp; `Data Visualization`
+> `Python` &nbsp; `SQL` &nbsp; `Automatización de procesos` &nbsp; `Visualización de datos`
 
 ---
 
-### Tech Stack
+### Tecnologías
 
-#### **Languages**
+#### **Lenguajes**
 > `Python` &nbsp; `Java` &nbsp; `TypeScript` &nbsp; `JavaScript` &nbsp; `SQL`
 
-#### **Backend & Frontend Systems**
+#### **Backend y frontend**
 
 > **Backend:** &nbsp; `FastAPI` &nbsp; `Django` &nbsp; `Spring Boot` &nbsp; `SQLAlchemy`
 
-> **Frontend & UI:** &nbsp; `React` &nbsp; `Next.js` &nbsp; `TailwindCSS` &nbsp; `Bootstrap`
+> **Frontend e interfaz:** &nbsp; `React` &nbsp; `Next.js` &nbsp; `TailwindCSS` &nbsp; `Bootstrap`
 
-> **Game & Graphics:** &nbsp; `Pygame`
+> **Videojuegos y gráficos:** &nbsp; `Pygame`
 
-#### **AI Systems & Agent Engineering**
+#### **Sistemas de IA y agentes**
 
-> **Orchestration & Frameworks:** &nbsp; `LangGraph` &nbsp; `LangChain` &nbsp; `LiteLLM (Groq / Gemini / OpenAI)`
+> **Orquestación y frameworks:** &nbsp; `LangGraph` &nbsp; `LangChain` &nbsp; `LiteLLM (Groq / Gemini / OpenAI)`
 
-> **Agent Architecture:** &nbsp; `Multi-Agent Systems` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `Input & Output Guardrails` &nbsp; `RAG Architectures`
+> **Arquitectura de agentes:** &nbsp; `Sistemas multiagente` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `Guardrails de entrada y salida` &nbsp; `Arquitecturas RAG`
 
-> **Voice AI:** &nbsp; `Deepgram` &nbsp; `Cartesia`
+> **Voz con IA:** &nbsp; `Deepgram` &nbsp; `Cartesia`
 
-> **Agent Tooling:** &nbsp; `Agentic Tools` &nbsp; `Skills` &nbsp; `Harness` &nbsp; `Function Calling`
+> **Herramientas de agentes:** &nbsp; `Agentic Tools` &nbsp; `Skills` &nbsp; `Harness` &nbsp; `Function Calling`
 
-#### **Observability, Protocols & DevOps**
+#### **Observabilidad, protocolos y DevOps**
 
-> **LLM Observability:** &nbsp; `Langfuse`
+> **Observabilidad de LLMs:** &nbsp; `Langfuse`
 
-> **Protocols & Interfaces:** &nbsp; `MCP (Model Context Protocol)` &nbsp; `Custom MCP Server` &nbsp; `AGUI`
+> **Protocolos e interfaces:** &nbsp; `MCP (Model Context Protocol)` &nbsp; `Servidor MCP propio` &nbsp; `AGUI`
 
-> **Infrastructure & CI/CD:** &nbsp; `Docker` &nbsp; `Google Cloud Run` &nbsp; `AWS` &nbsp; `Hetzner` &nbsp; `Backblaze B2` &nbsp; `Cloudflare` &nbsp; `GitHub Actions`
+> **Infraestructura y CI/CD:** &nbsp; `Docker` &nbsp; `Google Cloud Run` &nbsp; `AWS` &nbsp; `Hetzner` &nbsp; `Backblaze B2` &nbsp; `Cloudflare` &nbsp; `GitHub Actions`
 
-> **Testing & Quality:** &nbsp; `pytest` &nbsp; `Vitest` &nbsp; `Playwright` &nbsp; `LLM Evals`
+> **Pruebas y calidad:** &nbsp; `pytest` &nbsp; `Vitest` &nbsp; `Playwright` &nbsp; `Evaluación de LLMs`
 
-> **Identity & Auth:** &nbsp; `Keycloak (OIDC)`
+> **Identidad y autenticación:** &nbsp; `Keycloak (OIDC)`
 
-#### **Data Infrastructure & Memory**
+#### **Datos y memoria**
 
-> **Relational:** &nbsp; `PostgreSQL (RLS)`
+> **Relacional:** &nbsp; `PostgreSQL (RLS)`
 
-> **Vector & Graph:** &nbsp; `Qdrant` &nbsp; `pgvector` &nbsp; `FalkorDB`
+> **Vectorial y grafos:** &nbsp; `Qdrant` &nbsp; `pgvector` &nbsp; `FalkorDB`
 
-> **Caching & Queuing:** &nbsp; `Redis` &nbsp; `Celery`
+> **Caché y colas:** &nbsp; `Redis` &nbsp; `Celery`
 
-#### **Integrations & Network Analysis**
+#### **Integraciones y análisis de redes**
 
-> **APIs & Messaging:** &nbsp; `WhatsApp API (Meta / Twilio)` &nbsp; `Wompi`
+> **APIs y mensajería:** &nbsp; `WhatsApp API (Meta / Twilio)` &nbsp; `Wompi`
 
-> **Automation & Packet Inspection:** &nbsp; `n8n` &nbsp; `TShark (Wireshark)`
+> **Automatización e inspección de paquetes:** &nbsp; `n8n` &nbsp; `TShark (Wireshark)`
 
 ---
 
-## Featured Projects
+## Proyectos destacados
 
 <table>
 <tr>
@@ -105,13 +105,13 @@ Developed technology solutions and automated internal processes. Data extraction
 </a>
 <p>
 <a href="https://cautelia.app" target="_blank">
-<img src="https://img.shields.io/badge/WEBSITE-B87333?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/SITIO_WEB-B87333?style=for-the-badge&logoColor=white">
 </a>
 <a href="https://github.com/miguelczz/cautelia" target="_blank">
-<img src="https://img.shields.io/badge/CODE-0A66C2?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-0A66C2?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>AI agent that takes car-accident reports and answers auto-policy questions by chat or in-browser voice calls, in Spanish and English. It cites the exact policy clause it relies on and leaves every coverage and payment decision to a human adjuster. Built with React, TypeScript, FastAPI, LangGraph, Claude, PostgreSQL (RLS, pgvector), Deepgram, Cartesia, Langfuse, Google Cloud Run, Input & Output Guardrails and a Custom MCP Server.</p>
+<p>Agente de IA que recibe reportes de choques y responde preguntas sobre la póliza de auto por chat o por llamada en el navegador, en español e inglés. Cita la cláusula exacta en la que se apoya y nunca decide cobertura ni pagos: un ajustador de IA independiente lee el reporte, la póliza y las reglas de la aseguradora, consulta en la web el valor de referencia del vehículo y decide cada caso explicando su razonamiento. Hecho con React, TypeScript, FastAPI, LangGraph, Claude, PostgreSQL (RLS, pgvector), Deepgram, Cartesia, Langfuse, Google Cloud Run, guardrails de entrada y salida y un servidor MCP propio.</p>
 </div>
 </td>
 </tr>
@@ -125,25 +125,25 @@ Developed technology solutions and automated internal processes. Data extraction
 <img src="issi-hr-hero.png" width="450" alt="ISSI HR">
 <p>
 <a href="https://issiagent.com" target="_blank">
-<img src="https://img.shields.io/badge/WEBSITE-8B5CF6?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/SITIO_WEB-8B5CF6?style=for-the-badge&logoColor=white">
 </a>
 </p>
-<p>Multi-tenant B2B HR SaaS platform enabling companies to automate recruitment, talent management, and internal operations via conversational AI agents on WhatsApp.</p>
+<p>Plataforma SaaS B2B multiempresa de recursos humanos que permite a las empresas automatizar la selección de personal, la gestión del talento y sus procesos internos con agentes de IA conversacionales en WhatsApp.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">WiFi Expert Agent</h3>
+<h3 align="center">Agente Experto Wi-Fi</h3>
 <div align="center">
   <a href="https://github.com/miguelczz/wifi_expert_agent" target="_blank">
-    <img src="https://github.com/user-attachments/assets/f3c4363f-d424-496f-8be6-7373d6e870b5" alt="WiFi Agent">
+    <img src="https://github.com/user-attachments/assets/f3c4363f-d424-496f-8be6-7373d6e870b5" alt="Agente Experto Wi-Fi">
   </a>
 <p>
 <a href="https://github.com/miguelczz/wifi_expert_agent" target="_blank">
-<img src="https://img.shields.io/badge/CODE-0A66C2?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-0A66C2?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Multi-agent, multimodal web system converting raw Wireshark network captures into diagnostic reports using custom Skills, Agentic Tools, and a Judge System evaluation architecture.</p>
+<p>Sistema web multiagente y multimodal que convierte capturas de red de Wireshark en reportes de diagnóstico, con Skills propias, Agentic Tools y una arquitectura de evaluación con Judge System.</p>
 </div>
 </td>
 </tr>
@@ -159,12 +159,12 @@ Developed technology solutions and automated internal processes. Data extraction
 </a>
 <p>
 <a href="https://github.com/miguelczz/Kakureya" target="_blank">
-<img src="https://img.shields.io/badge/CODE-FF6F00?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-FF6F00?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Web application for food delivery operations and order tracking. Built with Python, Django, JavaScript, Bootstrap, AWS, Wompi API, and PostgreSQL.</p>
-<p>🏆 Awarded Best Capstone Project — Third Semester Category</p>
-<img src="certificado-kakureya.png" width="200" alt="Kakureya Certificate">
+<p>Aplicación web para la operación de domicilios de comida y el seguimiento de pedidos. Hecha con Python, Django, JavaScript, Bootstrap, AWS, API de Wompi y PostgreSQL.</p>
+<p>🏆 Certificado mejor proyecto PPI T&T, categoría tercer semestre</p>
+<img src="certificado-kakureya.png" width="200" alt="Certificado de Kakureya">
 </div>
 </td>
 
@@ -174,12 +174,12 @@ Developed technology solutions and automated internal processes. Data extraction
 <a href="https://github.com/miguelczz/ForestCustodian" target="_blank"><img src="https://github.com/miguelczz/ForestCustodian/blob/main/assets/images/readme/inicio.png" width="300" alt="Forest Custodian"></a>
 <p>
 <a href="https://github.com/miguelczz/ForestCustodian" target="_blank">
-<img src="https://img.shields.io/badge/CODE-4CAF50?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-4CAF50?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>2D environmental education game built using Python and Pygame, featuring a modular code design and interactive mechanics.</p>
-<p>🏆 Awarded Best Capstone Project — First Semester Category</p>
-<img src="certificado-forestcustodian.png" width="200" alt="Forest Custodian Certificate">
+<p>Videojuego 2D de educación ambiental hecho con Python y Pygame, con código modular y mecánicas interactivas.</p>
+<p>🏆 Certificado mejor proyecto PPI T&T, categoría primer semestre</p>
+<img src="certificado-forestcustodian.png" width="200" alt="Certificado de Forest Custodian">
 </div>
 </td>
 
@@ -189,12 +189,12 @@ Developed technology solutions and automated internal processes. Data extraction
 <a href="https://github.com/miguelczz/Talky" target="_blank"><img src="https://github.com/miguelczz/Talky/blob/main/frontend/src/assets/images/readme/inicio.png" width="300" alt="Talky"></a>
 <p>
 <a href="https://github.com/miguelczz/Talky" target="_blank">
-<img src="https://img.shields.io/badge/CODE-3F51B5?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-3F51B5?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Interactive language assistant providing automated conversational practice and lessons. Developed with React, Spring Boot, n8n, AWS, and TailwindCSS.</p>
-<p>🏆 Awarded Best Capstone Project — Fourth Semester Category</p>
-<img src="certificado-talky.png" width="200" alt="Talky Certificate">
+<p>Asistente interactivo para practicar inglés con conversación y lecciones automatizadas. Hecho con React, Spring Boot, n8n, AWS y TailwindCSS.</p>
+<p>🏆 Certificado mejor proyecto PPI T&T, categoría cuarto semestre</p>
+<img src="certificado-talky.png" width="200" alt="Certificado de Talky">
 </div>
 </td>
 </tr>
@@ -202,7 +202,7 @@ Developed technology solutions and automated internal processes. Data extraction
 
 <br>
 
-### 📊 GitHub Analytics
+### 📊 Estadísticas de GitHub
 
 <p align="center">
 <a href="https://github.com/miguelczz">
