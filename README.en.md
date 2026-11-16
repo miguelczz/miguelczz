@@ -35,7 +35,7 @@ Designed intelligent agents using LLMs to automate complex technical processes. 
 
 > `MCP` &nbsp; `TShark` &nbsp; `LiteLLM` &nbsp; `Qdrant` &nbsp; `Docker` &nbsp; `Langfuse` &nbsp; `Python` &nbsp; `FastAPI` &nbsp; `FalkorDB` &nbsp; `Multi-Agent Systems` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `RAG Systems` &nbsp; `Redis` &nbsp; `Agentic Tools` &nbsp; `Skills`
 
-**Audit Integral Advisors S.A.S.** — Technology Development Assistant &nbsp;·&nbsp; Jul 2024 - Aug 2025 &nbsp;·&nbsp; Remote
+**Audit Integral Advisors S.A.S.** — Technology Development Assistant &nbsp;·&nbsp; Feb 2024 - Aug 2025 &nbsp;·&nbsp; Remote
 
 Developed technology solutions and automated internal processes. Data extraction and visualization in Python for auditing and organizational management information systems.
 

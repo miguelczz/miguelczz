@@ -35,7 +35,7 @@ Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos com
 
 > `MCP` &nbsp; `TShark` &nbsp; `LiteLLM` &nbsp; `Qdrant` &nbsp; `Docker` &nbsp; `Langfuse` &nbsp; `Python` &nbsp; `FastAPI` &nbsp; `FalkorDB` &nbsp; `Sistemas multiagente` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `Sistemas RAG` &nbsp; `Redis` &nbsp; `Agentic Tools` &nbsp; `Skills`
 
-**Audit Integral Advisors S.A.S.** · Asistente de Desarrollo Tecnológico &nbsp;·&nbsp; jul. 2024 - ago. 2025 &nbsp;·&nbsp; Remoto
+**Audit Integral Advisors S.A.S.** · Asistente de Desarrollo Tecnológico &nbsp;·&nbsp; feb. 2024 - ago. 2025 &nbsp;·&nbsp; Remoto
 
 Desarrollo de soluciones tecnológicas y automatización de procesos internos. Extracción y visualización de datos en Python para sistemas de información de auditoría y gestión organizacional.
 
