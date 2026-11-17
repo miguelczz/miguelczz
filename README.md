@@ -7,9 +7,9 @@
 </div>
 
 <p align="center">
-    <a href="https://mzuluaga.vercel.app"><img src="https://img.shields.io/badge/Portafolio-2446B8?style=flat&logo=vercel&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/miguelzuluaga/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
     <a href="mailto:miguelzuluaga201@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+    <a href="https://mzuluaga.vercel.app"><img src="https://img.shields.io/badge/Portafolio-5071DC?style=flat"></a>
     <a href="https://wa.me/573112939462"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 </p>
 
