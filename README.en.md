@@ -31,7 +31,7 @@ Development and operation of a multi-tenant B2B SaaS platform for recruitment, e
 
 **Tigo Colombia** — Software Developer, Professional Internship &nbsp;·&nbsp; Oct 2025 - Apr 2026 &nbsp;·&nbsp; Medellín, Colombia (On-site)
 
-Designed intelligent agents using LLMs to automate complex technical processes. Implemented following Clean Architecture, keeping the domain separate from infrastructure, with multi-model orchestration and automatic fallback to ensure service reliability.
+Designed intelligent agents using LLMs to automate technical processes in telecommunications and built a multi-agent analyzer with TShark and LLMs that replaces manual review of Wireshark captures to verify band steering (802.11k/v/r). Implemented following Clean Architecture, keeping the domain separate from infrastructure, with multi-model orchestration and automatic fallback to ensure service reliability.
 
 > `MCP` &nbsp; `TShark` &nbsp; `LiteLLM` &nbsp; `Qdrant` &nbsp; `Docker` &nbsp; `Langfuse` &nbsp; `Python` &nbsp; `FastAPI` &nbsp; `FalkorDB` &nbsp; `Multi-Agent Systems` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `RAG Systems` &nbsp; `Redis` &nbsp; `Agentic Tools` &nbsp; `Skills`
 
@@ -52,9 +52,7 @@ Developed technology solutions and automated internal processes. Data extraction
 
 > **Backend:** &nbsp; `FastAPI` &nbsp; `Django` &nbsp; `Spring Boot` &nbsp; `SQLAlchemy`
 
-> **Frontend & UI:** &nbsp; `React` &nbsp; `Next.js` &nbsp; `TailwindCSS` &nbsp; `Bootstrap`
-
-> **Game & Graphics:** &nbsp; `Pygame`
+> **Frontend & UI:** &nbsp; `React` &nbsp; `Next.js` &nbsp; `TailwindCSS`
 
 #### **AI Systems & Agent Engineering**
 
@@ -144,7 +142,7 @@ Developed technology solutions and automated internal processes. Data extraction
 <img src="https://img.shields.io/badge/CODE-0A66C2?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Multi-agent, multimodal web system converting raw Wireshark network captures into diagnostic reports using custom Skills, Agentic Tools, and a Judge System evaluation architecture.</p>
+<p>Multi-agent, multimodal web system converting raw Wireshark network captures into diagnostic reports using custom Skills, Agentic Tools, and a Judge System evaluation architecture. Built during my internship at Tigo Colombia.</p>
 </div>
 </td>
 </tr>
