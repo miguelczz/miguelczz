@@ -31,7 +31,7 @@ Desarrollo y operación de una plataforma SaaS B2B multiempresa para selección 
 
 **Tigo Colombia** · Desarrollador de Software, prácticas profesionales &nbsp;·&nbsp; oct. 2025 - abr. 2026 &nbsp;·&nbsp; Medellín, Colombia (presencial)
 
-Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos complejos. Implementación con Clean Architecture, separando el dominio de la infraestructura, con orquestación de varios modelos y fallback automático para mantener el servicio disponible.
+Diseño de agentes inteligentes con LLMs para automatizar procesos técnicos en telecomunicaciones y desarrollo de un analizador multiagente con TShark y LLMs que sustituye la revisión manual de capturas de Wireshark para verificar band steering (802.11k/v/r). Implementación con Clean Architecture, separando el dominio de la infraestructura, con orquestación de varios modelos y fallback automático para mantener el servicio disponible.
 
 > `MCP` &nbsp; `TShark` &nbsp; `LiteLLM` &nbsp; `Qdrant` &nbsp; `Docker` &nbsp; `Langfuse` &nbsp; `Python` &nbsp; `FastAPI` &nbsp; `FalkorDB` &nbsp; `Sistemas multiagente` &nbsp; `Judge Systems` &nbsp; `Security Layers` &nbsp; `Sistemas RAG` &nbsp; `Redis` &nbsp; `Agentic Tools` &nbsp; `Skills`
 
@@ -52,9 +52,7 @@ Desarrollo de soluciones tecnológicas y automatización de procesos internos. E
 
 > **Backend:** &nbsp; `FastAPI` &nbsp; `Django` &nbsp; `Spring Boot` &nbsp; `SQLAlchemy`
 
-> **Frontend e interfaz:** &nbsp; `React` &nbsp; `Next.js` &nbsp; `TailwindCSS` &nbsp; `Bootstrap`
-
-> **Videojuegos y gráficos:** &nbsp; `Pygame`
+> **Frontend e interfaz:** &nbsp; `React` &nbsp; `Next.js` &nbsp; `TailwindCSS`
 
 #### **Sistemas de IA y agentes**
 
@@ -144,7 +142,7 @@ Desarrollo de soluciones tecnológicas y automatización de procesos internos. E
 <img src="https://img.shields.io/badge/C%C3%93DIGO-0A66C2?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Sistema web multiagente y multimodal que convierte capturas de red de Wireshark en reportes de diagnóstico, con Skills propias, Agentic Tools y una arquitectura de evaluación con Judge System.</p>
+<p>Sistema web multiagente y multimodal que convierte capturas de red de Wireshark en reportes de diagnóstico, con Skills propias, Agentic Tools y una arquitectura de evaluación con Judge System. Desarrollado durante mis prácticas en Tigo Colombia.</p>
 </div>
 </td>
 </tr>
